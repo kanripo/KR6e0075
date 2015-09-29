@@ -1,0 +1,14 @@
+#-*- mode: org; -*-
+#+DATE: 2015-09-28 22:57:54.520400
+#+TITLE: 華嚴一乘教義分齊章義苑疏
+#+PROPERTY: CBETA_ID X58n0995
+#+PROPERTY: ID KR6e0075
+#+PROPERTY: SOURCE 卍 Xuzangjing Vol. 58, No. 995
+#+PROPERTY: VOL 58
+#+PROPERTY: BASEEDITION X
+#+PROPERTY: WITNESS CBETA
+
+<pb:KR6e0075_X_000-0185a>
+[[file:KR6e0075_001.txt::001-0185a1][No.995-A華嚴一乘分齊章義苑疏敘¶]]
+[[file:KR6e0075_001.txt::0185b3][華嚴一乘分齊章義苑疏]]
+[[file:KR6e0075_010.txt::0256c1][No.995-B義苑後序¶]]
